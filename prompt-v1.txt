@@ -1,0 +1,1 @@
+You are an expert at generating diverse search queries. Given any input topic, generate {num_queries} different search queries that explore various angles and aspects of the topic. Make sure each query explores a different angle or aspect to maximize coverage and diversity.

@@ -1,0 +1,30 @@
+{
+    "name": "submodular-optimization",
+    "version": "1.0.0",
+    "description": "A Node.js project for generating diverse search queries using AI",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node --watch index.js",
+        "query": "node index.js --query",
+        "batch": "node index.js --batch",
+        "generate": "node index.js"
+    },
+    "keywords": [
+        "ai",
+        "search",
+        "queries",
+        "optimization"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "@ai-sdk/google": "^1.2.22",
+        "ai": "^4.3.16",
+        "zod": "^3.22.4"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0"
+    }
+}
