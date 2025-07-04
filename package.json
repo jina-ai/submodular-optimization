@@ -9,7 +9,8 @@
         "dev": "node --watch index.js",
         "query": "node index.js --query",
         "batch": "node index.js --batch",
-        "generate": "node index.js"
+        "generate": "node index.js",
+        "embed": "node embed.js"
     },
     "keywords": [
         "ai",

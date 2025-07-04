@@ -1,7 +1,12 @@
 [
-  "What are Jina AI embeddings?",
-  "How to use Jina AI embeddings for semantic search?",
-  "Jina AI embeddings vs OpenAI embeddings comparison",
-  "Performance benchmarks Jina AI embeddings",
-  "Jina AI embedding models list"
+  "What are embeddings and rerankers in information retrieval",
+  "Applications of vector embeddings for search relevance",
+  "How do rerankers improve search result quality",
+  "Comparison of embedding models vs reranking architectures",
+  "Challenges in deploying large scale reranker systems",
+  "Best practices for training neural rerankers",
+  "Evaluation metrics for search reranking performance",
+  "Open source libraries for text embeddings and reranking",
+  "Future trends in embeddings and rerankers research",
+  "Examples of reranking in e-commerce product search"
 ]
