@@ -1,6 +1,14 @@
 # Submodular Optimization
 
-Generate diverse search queries using AI and optimize query selection using submodular optimization algorithms.
+Using submodular optimization for context engineering. Examples of text selection, query fan-out, passage reranking are included in this repo.
+
+## Blogs
+
+Highly recommended before diving into the code:
+
+- [Submodular Optimization for Text Selection, Passage Reranking & Context Engineering](https://jina.ai/news/submodular-optimization-for-text-selection-passage-reranking-context-engineering). Examples of text selection and passage reranking w/ submodular optimization.
+- [Submodular Optimization for Diverse Query Generation in DeepResearch](https://jina.ai/news/submodular-optimization-for-diverse-query-generation-in-deepresearch). Example of query fan-out w/ submodular optimization.
+
 
 ## Setup
 
