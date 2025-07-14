@@ -7,6 +7,9 @@ Using submodular optimization for context engineering. Examples of text selectio
 Highly recommended before diving into the code:
 
 - [Submodular Optimization for Text Selection, Passage Reranking & Context Engineering](https://jina.ai/news/submodular-optimization-for-text-selection-passage-reranking-context-engineering). Examples of text selection and passage reranking w/ submodular optimization.
+    - [Colab Notebook: Text Selection](./text-selection.ipynb)
+    - [Colab Notebook: Passage Reranking](./passage-reranking.ipynb)
+    - [Colab Notebook: Video Frames Selection](./video-frame-rerank.ipynb)
 - [Submodular Optimization for Diverse Query Generation in DeepResearch](https://jina.ai/news/submodular-optimization-for-diverse-query-generation-in-deepresearch). Example of query fan-out w/ submodular optimization.
 
 
